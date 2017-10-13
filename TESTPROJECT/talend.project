@@ -7,6 +7,19 @@
     <documentationStatus xmi:id="_lifP8LBgEee0LfJwE8--Yw" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_lifP8bBgEee0LfJwE8--Yw" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_lifP8rBgEee0LfJwE8--Yw" label="validated" code="VAL"/>
+    <ItemsRelations xmi:id="_-4iSMLBgEee0LfJwE8--Yw">
+      <baseItem xmi:id="_-4i5QLBgEee0LfJwE8--Yw" id="_zt4XoLBgEee0LfJwE8--Yw" version="0.1" type="job"/>
+      <relatedItems xmi:id="_-4i5QbBgEee0LfJwE8--Yw" id="_35RaALBgEee0LfJwE8--Yw" version="Latest" type="job"/>
+      <relatedItems xmi:id="_-4i5QrBgEee0LfJwE8--Yw" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-4i5Q7BgEee0LfJwE8--Yw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-4i5RLBgEee0LfJwE8--Yw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-4i5RbBgEee0LfJwE8--Yw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-4i5RrBgEee0LfJwE8--Yw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-4i5R7BgEee0LfJwE8--Yw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-4i5SLBgEee0LfJwE8--Yw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-4i5SbBgEee0LfJwE8--Yw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-4i5SrBgEee0LfJwE8--Yw" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_liIqoLBgEee0LfJwE8--Yw" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_liIqobBgEee0LfJwE8--Yw" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_liIqorBgEee0LfJwE8--Yw" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
